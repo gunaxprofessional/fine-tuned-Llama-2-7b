@@ -13,7 +13,7 @@ The `fine_tune_llm` file focuses on fine-tuning the Llama-2 language model using
 ## File 3: run_fine_tuned_llama.py
 
 **Summary:**
-In `run_fine_tuned_llama`, the pre-trained Llama-2 model is initialized and configured for quantization. The code loads the model, sets up a chatbot pipeline, and executes it to generate HTML code based on a predefined question. The focus is on utilizing the fine-tuned model for practical HTML code generation.
+In `run_fine_tuned_llama`, the fine-tuned Llama-2 model is initialized and configured for quantization. The code loads the model, sets up a chatbot pipeline, and executes it to generate HTML code based on a predefined question. The focus is on utilizing the fine-tuned model for practical HTML code generation.
 
 ## File 4: streamlit_app.py
 
