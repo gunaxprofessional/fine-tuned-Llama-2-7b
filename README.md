@@ -1,3 +1,6 @@
+![image](https://github.com/gunaxprofessional/fine-tuned-Llama-2-7b/assets/66107066/746750e3-7002-4677-8dd0-024972256e2f)
+
+
 # Fine Tuned Llama 2 7b on Html Data
 
 ## File 1: dataset_creation.py
