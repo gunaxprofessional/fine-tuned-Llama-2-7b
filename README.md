@@ -21,4 +21,4 @@ In `run_fine_tuned_llama`, the pre-trained Llama-2 model is initialized and conf
 The `streamlit_app` file introduces a Streamlit application for the project. It installs necessary packages, creates a Streamlit app generating HTML code based on user instructions, and displays a conversation history. The app is run in the background, and a publicly accessible URL is provided through localtunnel for users to access the Streamlit app.
 
 ## Evaluation
-To evaluate the fine-tuned LLama, I am currently exploring various metrics such as ROUGE and BLEU. However, I have not yet found a metric specifically designed for evaluating the fine-tuned LLama on HTML data. I hope to discover a suitable method for evaluating the LLama, with a particular emphasis on its performance in generating HTML.
+To evaluate the fine-tuned LLama, I am currently exploring various metrics such as ROUGE, BLEU and so on. However, I have not yet found a metric specifically designed for evaluating the fine-tuned LLama on HTML data. I hope to discover a suitable method for evaluating the LLama, with a particular emphasis on its performance in generating HTML.
